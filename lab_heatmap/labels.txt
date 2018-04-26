@@ -1,0 +1,11 @@
+0 : Good
+1 : Dianduan
+2 : Waike
+3 : NoWeld
+4 : Zazhi
+5 : WireGap
+6 : Offset
+7 : NoWire
+8 : ExtreWire_single
+9 : ExtreWire_double
+10 : ExtraWire_little
