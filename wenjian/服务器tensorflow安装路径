@@ -1,0 +1,3 @@
+/usr/local/lib/python2.7/dist-packages/tensorflow/contrib/slim/python/slim/nets
+
+修改过的512输入网络文件在这个目录
